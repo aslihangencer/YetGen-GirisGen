@@ -87,8 +87,3 @@ git push -u origin main
 ```
 
 ---
-
-## 👤 Yazar & Geliştirici
-
-- **GitHub**: [aslihangencer](https://github.com/aslihangencer)
-- **Proje**: GüvenKarnesi - YetGen GirişGen
